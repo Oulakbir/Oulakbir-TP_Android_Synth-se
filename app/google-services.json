@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "501350120016",
+    "project_id": "tp-synthese-android",
+    "storage_bucket": "tp-synthese-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501350120016:android:19050cd533cdd2daea2f55",
+        "android_client_info": {
+          "package_name": "com.example.synthse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDvxIiOTxjjAPO_bw45sbrn7s-a11nuT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

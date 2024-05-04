@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TP Synthse Android</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">TP Synthse Android</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_books">Books</string>
+    <string name="menu_chatbot">Chatbot</string>
+    <string name="enter_your_message">Enter your message</string>
+    <string name="send">Send</string>
+    <string name="msg_from_bot">Msg from bot</string>
+    <string name="msg_from_user">Msg from user</string>
+</resources>
