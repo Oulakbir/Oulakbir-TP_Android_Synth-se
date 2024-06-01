@@ -45,7 +45,7 @@ This page displays the results of a book search. Users can view details of the b
 ### Chatbot Illustration
 The chatbot provides an interactive way for users to get information and assistance related to the library. It can answer queries, provide book recommendations, and assist with various library-related tasks.
 
-![Chatbot Illustration]([path/to/chatbot_image.png](https://github.com/Oulakbir/Oulakbir-TP_Android_Synth-se/assets/86001779/59014540-6828-49dc-a3f1-7b1b351b3d9c))
+![Chatbot Illustration](https://github.com/Oulakbir/Oulakbir-TP_Android_Synth-se/assets/86001779/59014540-6828-49dc-a3f1-7b1b351b3d9c)
 
 ## Setup
 To set up the project, follow these steps:
